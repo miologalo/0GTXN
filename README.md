@@ -1,8 +1,9 @@
  ```sh
 git clone https://github.com/miologalo/0GTXN.git && cd block_notify.sh
  ```
-
-nano block_notify.sh ( ## EDIT BOT ID & Chat ID ]
+ ```sh
+nano block_notify.sh
+ ```( ## EDIT BOT ID & Chat ID ]
 
 
 sudo apt update
