@@ -16,6 +16,11 @@ nohup ./block_notify.sh > log.txt 2>&1 &
  ```
 
  ```sh
-chmod +x block_notify.sh && ./block_notify.sh
+screen -S OGTXN
  ```
 
+ ```sh
+chmod +x block_notify.sh && ./block_notify.sh
+ ```
+## LAST Step 
+## Ctrl +A+D
