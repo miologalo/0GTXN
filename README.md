@@ -1,5 +1,5 @@
  ```sh
-git clone https://github.com/miologalo/0GTXN.git && cd block_notify.sh
+git clone https://github.com/miologalo/0GTXN.git && cd 0GTXN
  ```
  ```sh
 nano block_notify.sh
